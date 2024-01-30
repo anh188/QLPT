@@ -1,0 +1,291 @@
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\QLPT.exe.config
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\QLPT.exe
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\QLPT.pdb
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\obj\Debug\QLPT.csproj.AssemblyReference.cache
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\obj\Debug\QLPT.Form1.resources
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\obj\Debug\QLPT.Properties.Resources.resources
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\obj\Debug\QLPT.csproj.GenerateResource.cache
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\obj\Debug\QLPT.csproj.CoreCompileInputs.cache
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\obj\Debug\QLPT.exe
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\obj\Debug\QLPT.pdb
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\Bunifu_UI_v1.52.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\Guna.UI.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\obj\Debug\QLPT.csproj.CopyComplete
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\obj\Debug\QLPT.HoaDonControl1.resources
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\obj\Debug\QLPT.KhachHangControl1.resources
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\obj\Debug\QLPT.PhongTroControl1.resources
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\obj\Debug\QLPT.HopDongControl1.resources
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\obj\Debug\QLPT.HoaDonDienControl1.resources
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\obj\Debug\QLPT.HoaDonNuocControl1.resources
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\obj\Debug\QLPT.DichVuControl1.resources
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\obj\Debug\QLPT.Thongke.resources
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\EnvDTE.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\stdole.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\bài trên trường\QLPT\QLPT\QLPT\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\QLPT.exe.config
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\QLPT.exe
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\QLPT.pdb
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\EnvDTE.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\stdole.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLyNhaTro\btlqldapm\QLPT\obj\Debug\QLPT.csproj.AssemblyReference.cache
+D:\QLyNhaTro\btlqldapm\QLPT\obj\Debug\QLPT.DichVuControl1.resources
+D:\QLyNhaTro\btlqldapm\QLPT\obj\Debug\QLPT.Form1.resources
+D:\QLyNhaTro\btlqldapm\QLPT\obj\Debug\QLPT.HoaDonControl1.resources
+D:\QLyNhaTro\btlqldapm\QLPT\obj\Debug\QLPT.HoaDonDienControl1.resources
+D:\QLyNhaTro\btlqldapm\QLPT\obj\Debug\QLPT.HoaDonNuocControl1.resources
+D:\QLyNhaTro\btlqldapm\QLPT\obj\Debug\QLPT.HopDongControl1.resources
+D:\QLyNhaTro\btlqldapm\QLPT\obj\Debug\QLPT.KhachHangControl1.resources
+D:\QLyNhaTro\btlqldapm\QLPT\obj\Debug\QLPT.PhongTroControl1.resources
+D:\QLyNhaTro\btlqldapm\QLPT\obj\Debug\QLPT.Properties.Resources.resources
+D:\QLyNhaTro\btlqldapm\QLPT\obj\Debug\QLPT.Thongke.resources
+D:\QLyNhaTro\btlqldapm\QLPT\obj\Debug\QLPT.csproj.GenerateResource.cache
+D:\QLyNhaTro\btlqldapm\QLPT\obj\Debug\QLPT.csproj.CoreCompileInputs.cache
+D:\QLyNhaTro\btlqldapm\QLPT\obj\Debug\QLPT.csproj.CopyComplete
+D:\QLyNhaTro\btlqldapm\QLPT\obj\Debug\QLPT.exe
+D:\QLyNhaTro\btlqldapm\QLPT\obj\Debug\QLPT.pdb
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\Database1.mdf
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\Database1_log.ldf
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\QLyNhaTro\btlqldapm\QLPT\bin\Debug\Microsoft.MSXML.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\Database1.mdf
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\Database1_log.ldf
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\QLPT.exe.config
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\QLPT.exe
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\QLPT.pdb
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\EnvDTE.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\stdole.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\obj\Debug\QLPT.csproj.AssemblyReference.cache
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\obj\Debug\QLPT.DichVuControl1.resources
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\obj\Debug\QLPT.Form1.resources
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\obj\Debug\QLPT.HoaDonControl1.resources
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\obj\Debug\QLPT.HoaDonDienControl1.resources
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\obj\Debug\QLPT.HoaDonNuocControl1.resources
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\obj\Debug\QLPT.HopDongControl1.resources
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\obj\Debug\QLPT.KhachHangControl1.resources
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\obj\Debug\QLPT.PhongTroControl1.resources
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\obj\Debug\QLPT.Properties.Resources.resources
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\obj\Debug\QLPT.Thongke.resources
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\obj\Debug\QLPT.csproj.GenerateResource.cache
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\obj\Debug\QLPT.csproj.CoreCompileInputs.cache
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\obj\Debug\QLPT.csproj.CopyComplete
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\obj\Debug\QLPT.exe
+D:\qldapm-qlpt\QLyNhaTro\btlqldapm\QLPT\obj\Debug\QLPT.pdb
